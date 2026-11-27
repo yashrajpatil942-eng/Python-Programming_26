@@ -6,6 +6,8 @@ PRN: 1272261960
 
 Class: FY-CSE - 6
 
+BATCH: F-2
+
 Course Name: Python Programming
 
 Academic Year: 2026
