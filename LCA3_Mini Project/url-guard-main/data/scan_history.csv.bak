@@ -1,0 +1,6 @@
+scan_date_time,hostname,risk_score,risk_classification
+2026-11-17T05:10:10Z,www.google.com,0,LOW RISK
+2026-11-17T05:10:17Z,192.168.1.1,50,MEDIUM RISK
+2026-11-17T05:10:46Z,www.google.com,0,LOW RISK
+2026-11-17T05:11:12Z,verify-account-login-secure-update.example.com,35,MEDIUM RISK
+2026-11-17T05:11:36Z,fitgirl-repacks.site,0,LOW RISK
